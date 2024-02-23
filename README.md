@@ -1,37 +1,28 @@
+# Chytrý upřímný průvodce Brandýsem nad Labem - Starou Boleslaví
 
-# J.U.L.I.A. - Personal Voice Assistant 🤖💬
+## O projektu
 
-Vítejte v projektu J.U.L.I.A. - Personal Voice Assistant! Tento projekt je zaměřen na vytvoření inteligentního hlasového asistenta pro osobní využití.
+Tento projekt je výsledkem ročníkové práce [Václava Pisingera](https://www.instagram.com/vaclavpisinger/), a je podporován městem [Brandýs nad Labem - Stara Boleslav](https://www.brandysko.cz/). Kdo by si pomyslel, že za touhle aplikací stojí jen jeden šílený nadšenec a místní radnice s dostatkem kávy?
 
-## Co je J.U.L.I.A.?
+## Co je Chytrý upřímný průvodce?
 
-J.U.L.I.A. je hlasově ovládaný asistent, který vám rád pomůže s různými úkoly a dotazy. Je navržena tak, aby vám usnadnila život a poskytla vám informace a pomoc rychle a efektivně. 🥰
+Tohle není jen další taškařice, kterou si stažení, a pak zapomenutí! Chytrý upřímný průvodce Brandýsem nad Labem - Starou Boleslaví je jako tvůj nejlepší kámoš, který ti říká, kde najít to nejlepší jídlo, nejzajímavější historické památky a tajné skrýše města. A to všechno s takovým humorem, že si budete přát, aby měl i vlastní stand-up show!
 
-## Funkce
+## Funkce aplikace
 
-- **Hlasové ovládání 🔊:** Interagujte s J.U.L.I.A. pomocí hlasových příkazů.
-- **Přizpůsobení ⚙️:** Přizpůsobte si J.U.L.I.A. podle svých potřeb a preferencí.
-- **Plánování 📝:** Plánujte události, připomínky a úkoly.
-- **Vyhledávání 🌐:** Získejte rychlé odpovědi na své otázky.
+- **Interaktivní mapy:** 🗺️ Podrobné mapy města s označením turistických atrakcí, restaurací, obchodů a dalších zajímavých míst. Pokud se ztratíte, nezoufejte! Náš průvodce vás provede městem jako GPS našlapaná navigace.
+- **Užitečné informace:** ℹ️ Kompletní informace o historii, kultuře a zajímavostech města. Tady se dozvíte víc, než když jste spíchli celou encyklopedii.
+- **Tipy a doporučení:** 💡 Doporučení od místních obyvatel a tipy na místa, která byste neměli při návštěvě města minout. Ano, i ty tajné pláže u řeky, kam se nedostanete autem.
+- **Možnost zpětné vazby:** 📝 Sdílejte své zážitky a hodnocení míst přímo v aplikaci. A kdo ví, třeba se stane vaše historka součástí naší rubriky "Největší dobrodružství v Brandýse nad Labem - Staré Boleslavi"!
 
-## Jak používat
+## Dostupnost
 
-1. Stáhněte si zdrojový kód z tohoto repozitáře.
-2. Nainstalujte potřebné závislosti.
-3. Spusťte aplikaci a začněte používat J.U.L.I.A.
+Chytrý upřímný průvodce je aktuálně dostupný ve třech verzích:
 
-## Instalace
+- **Android aplikace:** 📱 Stáhněte si aplikaci z Google Play Store. Stačí pár kliknutí a jste na cestě k dobrodružství!
+- **Windows aplikace:** 💻 Stažení dostupné na stránce Windows Store. Ano, i pro ty, kdo mají rádi své Windows!
+- **Webová stránka:** 🌐 Navštivte naši webovou stránku pro přístup k aplikaci z libovolného prohlížeče. Kdo říká, že dobrodružství nemůže začít u počítače?
 
-Pro instalaci J.U.L.I.A. proveďte následující kroky:
+## Kontakt
 
-
-git clone https://github.com/vaclavpi/JULIA.git
-cd JULIA npm install
-
-## Příspěvky a Podpora
-
-Pokud máte nápady na vylepšení nebo narazíte na problémy, neváhejte přispět nebo mě kontaktovat prostřednictvím [Issues](https://github.com/valcavpi/JULIA/issues) či skrze mé [webové stránky](https://vaclavpi.github.io/).
-
-## Licence
-
-Tento projekt je licencován pod MIT licencí. Podrobnosti najdete v [LICENSE](LICENSE) souboru.
+Pro více informací o aplikaci nebo pokud máte dotazy, kontaktujte mě na [emailová adresa](mailto:vpi@outlook.cz) nebo navštivte mé [webové stránky](https://vaclavpi.github.io/). Jsme tu pro vás, jako váš nejlepší průvodce městem!
