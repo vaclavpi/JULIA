@@ -25,12 +25,12 @@ J.U.L.I.A. je hlasově ovládaný asistent, který vám rád pomůže s různým
 Pro instalaci J.U.L.I.A. proveďte následující kroky:
 
 
-git clone https://github.com/vaclavpi/julia.git
-cd julia npm install
+git clone https://github.com/vaclavpi/JULIA.git
+cd JULIA npm install
 
 ## Příspěvky a Podpora
 
-Pokud máte nápady na vylepšení nebo narazíte na problémy, neváhejte přispět nebo nás kontaktovat prostřednictvím [Issues](https://github.com/valcavpi/julia/issues).
+Pokud máte nápady na vylepšení nebo narazíte na problémy, neváhejte přispět nebo nás kontaktovat prostřednictvím [Issues](https://github.com/valcavpi/JULIA/issues) či skrze mé [webové stránky](https://vaclavpi.github.io/).
 
 ## Licence
 
